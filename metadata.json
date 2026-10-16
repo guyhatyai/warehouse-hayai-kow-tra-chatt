@@ -1,0 +1,6 @@
+{
+  "name": "Truck Loading Planner - ระบบวางแผนจัดเรียงสินค้าขึ้นรถบรรทุก",
+  "description": "ระบบคำนวณและวางแผนจัดเรียงสินค้าข้าวสารขึ้นรถบรรทุกสิบล้อ (พื้นเรียบ/คอก) ตามหลักกายภาพ ควบคุมความสูงขั้นบันได และจัดการพื้นที่ท้ายรถอย่างปลอดภัย",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
